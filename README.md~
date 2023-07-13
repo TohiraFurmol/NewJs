@@ -1,0 +1,54 @@
+JavaScript, also called JS for short, is one of the most popular programming languages. 
+JavaScript is a high-level, dynamic, object-oriented, and interpreted language that supports a variety of programming styles.
+This language can be used for server side programming, mobile applications, games and desktop applications. 
+Therefore, it can be considered that the JavaScript programming language is a versatile language.
+
+In the world of programming languages, the role of JavaScript is like the role of a verb in a sentence
+
+The first version of JavaScript was released by Brendan Echo in 1995,
+and JavaScript has been updated 6 times to become today's JavaScript.
+
+We have three ways to run JavaScript :
+. Using console tab of web browsers 
+. Using Node.js
+. By creating web pages
+
+We have two types of intializing variables : Var and Let
+If you are sure that the value of a variable won't change throughout the program, it's recommended
+to use const .
+
+
+aWe have two types of Value : Object and Primitive .
+Object : Object literal,Arrays,Functions ,Many more…
+Primitive :Number,String,Boolean,Undefined,Null,Symbol,Biglnt
+
+
+We have two rules for naming JavaScript variables
+1. Variable names must start with either a letter, an underscore _, or the dollar sign $.
+2. Variable names cannot start with numbers.
+
+
+We have five types Operators IN JavaScript :
+1. Arithmetic :  + , - , * ,  /
+2. Comparision :  == , === , >= ,  <= , != , !==
+3. Logical :   || , && , !
+4.Type Conversions  : Number ("3.14")
+5. Assignment  :  = , += , -= , *= , /= , ^= , %=
+
+
+We have three types of CONDITIONS in JavaScript
+1.if , else if , else 
+2.Switch
+3.Ternarny
+
+
+We have three types of Loops in JavaScript
+1.for , while , do while
+
+
+There are 3 ways of writing a function in JavaScript
+1.Function declaration
+2.Function Expression
+3.mmediately Invoked 
+Function Expression
+(IIFE)
